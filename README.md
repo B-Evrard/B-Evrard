@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @B-Evrard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: test
+Développeur passionné, fort de plus de 30 ans d’expérience en développement Java, je me spécialise dans le développement d’applications iOS.
 
-<!---
-B-Evrard/B-Evrard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Maîtrise de Swift, SwiftUI, Async/Await, Combine et Xcode, avec plusieurs projets concrets réalisés dans le cadre d’une formation intensive.
+
+Motivation forte pour l’écosystème Apple et les technologies mobiles.
